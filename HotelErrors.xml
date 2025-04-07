@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!-- Incorrect root element name Hotel -->
-<Hotel xmlns="https://github.com/ronakvir/CSE445Assignment4"> ?? CHANGE ME
+<Hotel xmlns="https://ronakvir.github.io/xml">
   <!-- Two Name elements provided -->
   <Hotel Rating="4.7">
     <Name>The Ritz-Carlton</Name>
