@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Hotels xmlns="https://github.com/ronakvir/CSE445Assignment4"> ?? CHANGE ME
+  <Hotel Rating="4.7">
+    <Name>The Ritz-Carlton</Name>
+    <Phone>555-123-4567</Phone>
+    <Address NearestAirport="LAX">
+      <Number>100</Number>
+      <Street>S Figueroa St</Street>
+      <City>Los Angeles</City>
+      <State>CA</State>
+      <Zip>90012</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Beverly Hills Hotel</Name>
+    <Phone>310-276-2251</Phone>
+    <Address NearestAirport="Hollywood Burbank Airport">
+      <Number>9641</Number>
+      <Street>Sunset Blvd</Street>
+      <City>Beverly Hills</City>
+      <State>CA</State>
+      <Zip>90210</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.8">
+    <Name>Hotel Bel-Air</Name>
+    <Phone>310-470-0800</Phone>
+    <Address NearestAirport="LAX">
+      <Number>701</Number>
+      <Street>Stone Canyon Rd</Street>
+      <City>Los Angeles</City>
+      <State>CA</State>
+      <Zip>90077</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.4">
+    <Name>Loews Hollywood Hotel</Name>
+    <Phone>323-463-6000</Phone>
+    <Address NearestAirport="Burbank Airport">
+      <Number>1755</Number>
+      <Street>N Highland Ave</Street>
+      <City>Los Angeles</City>
+      <State>CA</State>
+      <Zip>90028</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.6">
+    <Name>Four Seasons Hotel Los Angeles at Beverly Hills</Name>
+    <Phone>310-273-7000</Phone>
+    <Address NearestAirport="LAX">
+      <Number>300</Number>
+      <Street>S Doheny Dr</Street>
+      <City>Beverly Hills</City>
+      <State>CA</State>
+      <Zip>90211</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
